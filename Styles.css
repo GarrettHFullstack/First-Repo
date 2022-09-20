@@ -1,0 +1,11 @@
+.Header {
+    background-color: Grey;
+    text-align: center;
+    font-size: 80px;
+    padding-top: 10px;
+    Padding-bottom: 10px;
+
+}
+.Horizontal-list {
+    display: inline;
+}
